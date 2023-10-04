@@ -1,16 +1,19 @@
-<h1 align="center">Hi 👋, I'm Denny</h1>
-<!-- <h3 align="center">A boy who likes anime</h3> -->
+<h3 align="center">Hello I'm Denny A boy who likes anime</h3>
+<p align="center"><img align="center" height="150" src="https://github.com/janexmgd.png"  /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=janexmgd&label=Profile%20views&color=0e75b6&style=flat" alt="janexmgd" /></p>
+<div align="center">
+  <a href="https://www.fb.com/janexmgd" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=janexmgd&label=Profile%20views&color=0e75b6&style=flat" alt="janexmgd" /> </p>
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/janexmgd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="janexmgd" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=janexmgd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=janexmgd&show_icons=true&locale=en&layout=compact" alt="janexmgd" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janexmgd&" alt="janexmgd" /></p>
+  ###
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=janexmgd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
