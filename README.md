@@ -1,4 +1,4 @@
-<h3 align="center">Hello I'm Denny A boy who likes anime</h3>
+<p align="center"><h3>Hello I'm Denny A boy who likes anime</h3></p>
 <p align="center"><img align="center" height="150" src="https://github.com/janexmgd.png"  /></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=janexmgd&label=Profile%20views&color=0e75b6&style=flat" alt="janexmgd" /></p>
 <div align="center">
