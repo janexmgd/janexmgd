@@ -1,6 +1,6 @@
 <p align="center"><h3>Hello I'm Denny A boy who likes anime</h3></p>
 <p align="center"><img align="center" height="150" src="https://github.com/janexmgd.png"  /></p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=janexmgd&label=Profile%20views&color=0e75b6&style=flat" alt="janexmgd" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=janexmgd&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="janexmgd" /></p>
 <div align="center">
   <a href="https://www.fb.com/janexmgd" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
