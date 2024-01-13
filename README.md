@@ -17,5 +17,5 @@
   ###
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=janexmgd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  [![An image of @janexmgd's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/janexmgd)](https://holopin.io/@janexmgd)
 </div>
+[![An image of @janexmgd's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/janexmgd)](https://holopin.io/@janexmgd)
