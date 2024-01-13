@@ -1,7 +1,7 @@
 [![An image of @janexmgd's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/janexmgd)](https://holopin.io/@janexmgd)
 
 <h1 align="center">Hi 👋, I'm Denny Wahyu Prasetyo</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate backend developer from Indonesia</h3>
 
 - 📫 How to reach me **www.facebook.com/janexmgd**
 
